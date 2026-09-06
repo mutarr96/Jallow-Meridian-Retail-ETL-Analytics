@@ -181,7 +181,7 @@ Issues included NULL or negative quantities, NULL or nonnumeric prices, negative
 - Calendar Year
 - Category
 
-**Tableau Public:** [Add your Tableau Public dashboard link here](YOUR_TABLEAU_PUBLIC_LINK)
+**Tableau Public:** (https://public.tableau.com/app/profile/mutarr.jallow/viz/JallowMeridianExecutiveDashboard/JallowMeridianExecutiveDashboard)
 
 ## Key Business Insights
 
