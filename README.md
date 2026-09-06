@@ -189,6 +189,19 @@ Issues included NULL or negative quantities, NULL or nonnumeric prices, negative
 
 **Tableau Public:** (https://public.tableau.com/app/profile/mutarr.jallow/viz/JallowMeridianExecutiveDashboard/JallowMeridianExecutiveDashboard)
 
+## SSIS ETL Workflow
+
+The warehouse load was orchestrated in SQL Server Integration Services (SSIS), with staged dimension loads, rejected-record handling, and separate fact loads for Jallow Meridian and Crestline.
+
+### Control Flow
+![SSIS Control Flow](images/ssis_control_flow.png)
+
+### Data Flow
+![SSIS Data Flow](images/ssis_data_flow.png)
+
+### Successful Package Execution
+![SSIS Successful Execution](images/ssis_success.png)
+
 ## Key Business Insights
 
 1. Consolidated completed sales generated approximately **$35.06M in revenue** and **$9.47M in profit**, producing a **27.02% margin**.
