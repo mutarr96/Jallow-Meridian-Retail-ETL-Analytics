@@ -20,6 +20,10 @@ The project covers:
 - Tableau dashboard development
 - Post-acquisition business recommendations
 
+## Executive Dashboard
+
+![Jallow Meridian Executive Dashboard](images/dashboard.png)
+
 ## Business Problem
 
 After the acquisition, management needed a consolidated view of revenue, profitability, product and category performance, store performance, customer overlap, legacy data-quality issues, and post-acquisition margin improvement opportunities.
