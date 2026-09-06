@@ -22,7 +22,9 @@ The project covers:
 
 ## Executive Dashboard
 
-![Jallow Meridian Executive Dashboard](images/dashboard.png)
+[![Jallow Meridian Executive Dashboard](images/dashboard.png)](https://public.tableau.com/app/profile/mutarr.jallow/viz/JallowMeridianExecutiveDashboard/JallowMeridianExecutiveDashboard)
+
+[View the interactive Tableau dashboard on Tableau Public](https://public.tableau.com/app/profile/mutarr.jallow/viz/JallowMeridianExecutiveDashboard/JallowMeridianExecutiveDashboard)
 
 ## Business Problem
 
