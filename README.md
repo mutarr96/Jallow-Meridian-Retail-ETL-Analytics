@@ -189,6 +189,12 @@ Issues included NULL or negative quantities, NULL or nonnumeric prices, negative
 
 **Tableau Public:** (https://public.tableau.com/app/profile/mutarr.jallow/viz/JallowMeridianExecutiveDashboard/JallowMeridianExecutiveDashboard)
 
+## Explore the Project Files
+
+- [View SQL Scripts](sql/)
+- [View SSIS / Visual Studio Package](ssis/)
+- [View Tableau Workbook](tableau/)
+
 ## SSIS ETL Workflow
 
 The warehouse load was orchestrated in SQL Server Integration Services (SSIS), with staged dimension loads, rejected-record handling, and separate fact loads for Jallow Meridian and Crestline.
