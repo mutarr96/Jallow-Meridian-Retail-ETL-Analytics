@@ -247,15 +247,15 @@ The SSIS package uses OLE DB sources and destinations to move transformed data f
 
 ### Control Flow
 
-![SSIS Control Flow](images/Control Flow screenshot.png)
+![SSIS Control Flow](images/control_flow_screenshot.png)
 
 ### Data Flow
 
-![SSIS Data Flow](images/Data Flow screenshot.png)
+![SSIS Data Flow](images/data_flow_screenshot.png)
 
 ### Successful Package Execution
 
-![SSIS Successful Execution](images/Execution screenshot.png)
+![SSIS Successful Execution](images/execution_screenshot.png)
 
 ---
 
