@@ -2,6 +2,21 @@
 
 > **Portfolio Case Study:** This project uses a simulated retail acquisition scenario in which **Jallow Meridian Retail Group (JMRG)** acquires **Crestline Electronics & Home**. The companies and data are fictional and were created for portfolio and learning purposes.
 
+## End-to-End Analytics Workflow
+
+```text
+SQL Server Source Databases
+        ↓
+SQL Data Profiling & Transformation Views
+        ↓
+SSIS / Visual Studio ETL Pipeline
+        ↓
+Star-Schema Data Warehouse
+        ↓
+SQL Business Analysis
+        ↓
+Tableau Executive Dashboard
+
 ## Project Overview
 
 Jallow Meridian Retail Group needed to integrate multiple operational systems following the acquisition of Crestline Electronics & Home. The objective was to create a centralized analytical environment that combined current Jallow Meridian sales and CRM data with Crestline's legacy customer and transaction data.
