@@ -1,4 +1,4 @@
-# Jallow Meridian Retail Group — Post-Acquisition ETL & Business Intelligence Project
+# Jallow Meridian Retail Group - Post-Acquisition ETL & Business Intelligence Project
 
 > **Portfolio Case Study:** This project simulates the acquisition of **Crestline Electronics & Home** by **Jallow Meridian Retail Group (JMRG)**. The companies and data are fictional and were created for educational and portfolio purposes.
 
